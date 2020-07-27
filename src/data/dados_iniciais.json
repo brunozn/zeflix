@@ -1,17 +1,17 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
+        "titulo": "Front-end",
+        "link": "https://www.youtube.com/watch?v=urMjBk0xxzs",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "ENTREVISTA EMPRESARIO E PRÉ-CANDIDATO A PREFEITO CELSO GOMES",
+          "url": "https://www.youtube.com/watch?v=urMjBk0xxzs"
         },
         "videos": [
           {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "ENTREVISTA EMPRESARIO E PRÉ-CANDIDATO A PREFEITO CELSO GOMES",
+            "url": "https://www.youtube.com/watch?v=urMjBk0xxzs"
           },
           {
             "titulo": "SEO com React",
