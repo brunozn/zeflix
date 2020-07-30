@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import BannerMain from "./components/BannerMain/index";
-import Carousel from "./components/Carousel";
-import Footer from "./components/Footer";
-import dadosIniciais from "./data/dados_iniciais.json";
+import Navbar from "../../components/Navbar";
+import BannerMain from "../../components/BannerMain/index";
+import Carousel from "../../components/Carousel";
+import Footer from "../../components/Footer";
+import dadosIniciais from "../../data/dados_iniciais.json";
 
-function App() {
+function Home() {
   return (
     <div>
       <Navbar />
@@ -32,4 +32,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

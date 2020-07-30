@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../../assets/logo-zeflix.png";
 import "./Navbar.css";
+import { Link } from "react-router-dom";
 
 import { Button } from "../ButtonLink/styles";
 
@@ -11,10 +12,10 @@ import { Button } from "../ButtonLink/styles";
 function Navbar() {
   return (
     <nav className="Menu">
-      <a href="/">
+      <Link to="/">
         <img className="Logo" src={logo} alt="logo" />
-      </a>
-      <Button as="a" href="/" className="ButtonLink">
+      </Link>
+      <Button to="/cadastro/video" className="ButtonLink">
         Novo Vídeo
       </Button>
     </nav>
