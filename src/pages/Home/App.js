@@ -15,17 +15,11 @@ function Home() {
         //videoDescription={"O que é fron end?"}
       />
 
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
+      <Carousel category={dadosIniciais.categorias[0]} />
 
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[1]} />
+      <Carousel category={dadosIniciais.categorias[1]} />
 
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[2]} />
-
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[3]} />
-
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[4]} />
-
-      <Carousel ignoreFirstVideo category={dadosIniciais.categorias[5]} />
+      <Carousel category={dadosIniciais.categorias[2]} />
 
       <Footer />
     </div>

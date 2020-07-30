@@ -1,106 +1,94 @@
 {
     "categorias": [
       {
-        "titulo": "Front-end",
-        "link": "https://www.youtube.com/watch?v=urMjBk0xxzs",
+        "titulo": "Prefeito Zé Juarez",
+        "link": "https://www.youtube.com/watch?v=8utedMw8qVs",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "ENTREVISTA EMPRESARIO E PRÉ-CANDIDATO A PREFEITO CELSO GOMES",
+          "text": "Entrevistas do Prefeito Zé Juarez",
+          "url": "https://www.youtube.com/watch?v=8utedMw8qVs"
+        },
+        "videos": [
+          {
+            "titulo": "Programa Diassis Silveira Entrevista, o Sr. Zé Juarez",
+            "url": "youtube.com/watch?v=8utedMw8qVs"
+          },
+          {
+            "titulo": "Entrevista com o Prefeito de Iracema Zé Juarez no programa Iracema em Foco.",
+            "url": "https://www.youtube.com/watch?v=FkWlWPcYKfI"
+          },
+          {
+            "titulo": "Prefeito Zé Juarez anuncia novas medidas para combater o avanço do coronavírus no município.",
+            "url": "https://www.youtube.com/watch?v=IxMjpbaOn9s"
+          }         
+        ]
+      },
+      {
+        "titulo": "Pré-candidatos a prefeito em Iracema",
+        "cor": "#00C86F",
+        "link_extra": {
+          "titulo": "Pré-candidatos a prefeito",
           "url": "https://www.youtube.com/watch?v=urMjBk0xxzs"
         },
         "videos": [
           {
-            "titulo": "ENTREVISTA EMPRESARIO E PRÉ-CANDIDATO A PREFEITO CELSO GOMES",
+            "titulo": "Pré-candidato a prefeito de Iracema CELSO GOMES.",
             "url": "https://www.youtube.com/watch?v=urMjBk0xxzs"
           },
           {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Pré-candidato a prefeito de Iracema Régio de Otacílio.",
+            "url": "https://www.youtube.com/watch?v=CrXJ8IzTzQw"
           },
           {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-          },
-          {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-          },
-          {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-          },
-          {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-          },
-          {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-          },
-          {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          }        
-        ]
-      },
-      {
-        "titulo": "Back End",
-        "cor": "#00C86F",
-        "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
-        },
-        "videos": [
-          {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-          },
-          {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-          },
-          {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-          },
-          {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-          }, 
-          {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "Pré-candidato a prefeito de Iracema Dr. Pedro Teixeira",
+            "url": "https://www.youtube.com/watch?v=Q5gnqD74L78"
           }
         ]
       },
       {
-        "titulo": "Data Science e Inteligência Artificial",
+        "titulo": "Pré-candidatos a vereadores em Iracema",
         "cor": "#9cd33b",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/formacao-data-science"
+          "text": "Programas relacionados a vereadores na Tv Iracema",
+          "url": "https://www.youtube.com/results?search_query=tv+iracema+vereador"
         },
         "videos": [
           {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "titulo": "ENTREVISTA PRÉ-CANDIDATO A VEREADOR DIASSIS SILVEIRA.",
+            "url": "https://www.youtube.com/watch?v=EZOewJOW86w&t=2036s"
           },
           {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "Programa Iracema em foco entrevista o pré-candidato a vereador Prof. Helano Cesar",
+            "url": "https://www.youtube.com/watch?v=InzvU9BQ_ik"
           },
           {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "ENTREVISTA PRÉ-CANDIDATO A VEREADOR GLEUDSON.",
+            "url": "https://www.youtube.com/watch?v=kMuZd-gjHkI"
           },
           {
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+            "titulo": "Programa Iracema em Foco, o pré-candidato a vereador Dedé da Rádio.",
+            "url": "https://www.youtube.com/watch?v=vB8CilQ-pSM"
+          },
+          {
+            "titulo": "Programa Diassis Silveira Entrevista os pré-candidatos a Vereador",
+            "url": "https://www.youtube.com/watch?v=x3mb0cbMhbg"
+          },
+          {
+            "titulo": "Programa Iracema em Foco, o vereador Cícero Benigno",
+            "url": "https://www.youtube.com/watch?v=TrfeN0xVUgs"
+          },
+          {
+            "titulo": "Programa Iracema em Foco, o pré-candidato a vereador Romeu Diógenes.",
+            "url": "https://www.youtube.com/watch?v=IKcOjoLPe7Q"
+          },
+          {
+            "titulo": "Programa Diassis Silveira Entrevista, o pré-candidato a vereador Zé do Gás.",
+            "url": "https://www.youtube.com/watch?v=rgABk-1OQbE"
           }
         ]
       },
       {
-        "titulo": "Filmes",
+        "titulo": "Pré-candidatos a prefeito em Alto Santo",
         "cor": "orange",
         "videos": [
           {
